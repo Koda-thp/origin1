@@ -14,8 +14,7 @@ export default function Footer() {
               className="h-14 w-auto"
             />
             <p className="mt-6 max-w-sm text-sm leading-relaxed text-cream/70">
-              Studio de Pilates Lagree premium. Un espace dédié à la force, la posture et la
-              sérénité.
+              Studio de Lagree premium. Un espace dédié à la force, la posture et la sérénité.
             </p>
           </div>
 

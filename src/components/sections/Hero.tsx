@@ -10,7 +10,7 @@ export default function Hero() {
 
       <div className="relative mx-auto flex min-h-screen max-w-7xl flex-col items-center justify-center px-6 text-center">
         <p className="mb-6 text-xs tracking-[0.4em] text-brand-accent uppercase">
-          Studio de Pilates Lagree
+          Studio de Lagree
         </p>
 
         <h1 className="font-display text-5xl leading-tight text-cream sm:text-6xl md:text-7xl lg:text-8xl">

@@ -15,9 +15,9 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Origin Studio Lagree — Studio de Pilates Lagree",
+  title: "Origin Studio Lagree — Studio de Lagree",
   description:
-    "Studio de Pilates Lagree premium. Renforcez votre corps, sculptez vos muscles, trouvez votre équilibre.",
+    "Studio de Lagree premium. Renforcez votre corps, sculptez vos muscles, trouvez votre équilibre.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

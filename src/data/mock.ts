@@ -73,7 +73,7 @@ export const FONDATRICE = {
   name: "Lilas",
   role: "Fondatrice & Instructrice Certifiée Lagree",
   bio: [
-    "Passionnée par le mouvement et le bien-être, Lilas a fondé Origin Studio Lagree avec une conviction : rendre le Pilates Lagree accessible tout en conservant son exigence.",
+    "Passionnée par le mouvement et le bien-être, Lilas a fondé Origin Studio Lagree avec une conviction : rendre le Lagree accessible tout en conservant son exigence.",
     "Formée aux États-Unis à la méthode Lagree Fitness, elle combine rigueur technique et approche bienveillante pour accompagner chaque corps — quel que soit son niveau.",
   ],
   quote:
