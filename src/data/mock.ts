@@ -1,7 +1,7 @@
 export const DISCIPLINES = [
   {
-    title: "Lagree",
-    slug: "lagree",
+    title: "Full body",
+    slug: "full-body",
     description:
       "Notre méthode signature sur Megaformer. Mouvements lents et contrôlés pour un renforcement profond de tout le corps.",
     duration: "50 min",
@@ -9,8 +9,8 @@ export const DISCIPLINES = [
     image: "/images/photo1.png",
   },
   {
-    title: "Sculpt",
-    slug: "sculpt",
+    title: "Booty & abs focus",
+    slug: "booty-abs-focus",
     description:
       "Entraînement full-body axé sur le tonus et la définition musculaire. Cardio léger et résistance ciblée.",
     duration: "45 min",
@@ -18,8 +18,8 @@ export const DISCIPLINES = [
     image: "/images/photo2.png",
   },
   {
-    title: "Flow",
-    slug: "flow",
+    title: "Upper focus (advanced level)",
+    slug: "upper-focus",
     description:
       "Fusion de Pilates et de yoga inspiré. Mobilité, respiration et fluidité pour compléter vos séances intenses.",
     duration: "45 min",
